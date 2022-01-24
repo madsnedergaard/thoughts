@@ -1,0 +1,4 @@
+**/.DS_Store
+# Ignore everything in notes, except /Public folder
+notes/*
+!notes/Public
