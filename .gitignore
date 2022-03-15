@@ -2,3 +2,9 @@
 # Ignore everything in notes, except /Public folder
 notes/*
 !notes/Public
+
+# Allow .obsidian folder, but not workspace or downloadable folders
+!notes/.obsidian
+notes/.obsidian/workspace
+notes/.obsidian/plugins
+notes/.obsidian/themes
