@@ -6,11 +6,11 @@ description: Anything related to this website
 
 Meta topics:
 
-[[about-me]]
+[[about me]]
 
 [[about.md]]
 
-[[about-digital-gardening.md]]
+[[about digital gardening]]
 
 
 

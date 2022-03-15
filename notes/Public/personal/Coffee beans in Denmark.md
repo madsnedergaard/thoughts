@@ -15,22 +15,27 @@ I want to find the best high quality, value for the money, coffee beans for espr
 
 ## Options I have tried
 
-| Brand              | Name            | Store      | Price 250g | price kg | Rating |                  Notes |     |
-| ------------------ | --------------- | ---------- | ----------:| --------:| ------ | ----------------------:| --- |
-| Ønsk               | Café de Alturas | Ønsk       |         75 |      300 | ?      |                        |     |
-| Ønsk               | Corcasan        | Ønsk       |         75 |      300 | ?      |                        |     |
-| Copenhagen Roaster | Chiapas         | Føtex      |         68 |      275 | 4/5    | Rarely available fresh |     |
-| KaffeMekka         | Super Aroma     | KaffeMekka |         55 |      189 |        |                        |     |
-| KaffeMekka         | Super Crema     | KaffeMekka |         55 |      189 |        |                        |     |
+| Brand              | Name            | Price 250g | price kg | Rating |                  Notes |     |
+| ------------------ | --------------- | ----------:| --------:| ------ | ----------------------:| --- |
+| Ønsk               | Café de Alturas |         75 |      300 | ?      |                        |     |
+| Ønsk               | Corcasan        |         75 |      300 | ?      |                        |     |
+| Copenhagen Roaster | Chiapas         |         68 |      275 | 4/5    | Rarely available fresh |     |
+| Øristeriet         | Heavy pig       |            |          | 4/5    |                        |     |
+| Øristeriet         | Puro            |            |          |        |                  3.8/5 |     |
+| Øristeriet         | ?               |            |          |        |                      X |     |
+| Ubuntu             | Mexican         |            |          |        |                      X |     |
+| Ubuntu             | Columbian       |            |          |        |                      X |     |
+| Ubuntu             | ?               |            |          |        |                      X |     |
+|                    |                 |            |          |        |                        |     |
+
+
+
 
 ## Options to try
-
 
 - holybean: 240/kg
 - haveacofee: 200/kg - (230 without subscription) https://haveacoffee.dk/vare/signature-espresso-6-specialty-espresso-brasilien/
 - customcoffee 225/kg - https://customcoffee.dk/vare/esp-nr-1/?v=dd65ef9a5579)
-
-holybean.dk
 
 Quote from someone on Reddit:
 > - Nordhavn Coffee Roasters har elendig kaffe til høje priser. Undgå dem.

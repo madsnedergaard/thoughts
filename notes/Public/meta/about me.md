@@ -14,9 +14,6 @@
 
 **LinkedIn**  [http://linkedin.com/in/madsnedergaard/](http://linkedin.com/in/madsnedergaard/)
 
-**Twitter**  [https://twitter.com/Mads\_Nedergaard](https://twitter.com/Mads_Nedergaard)\*\*\*\*
+**Twitter**  [https://twitter.com/Mads_Nedergaard](https://twitter.com/Mads_Nedergaard)
 
 **Github**  [https://github.com/madsnedergaard/](https://github.com/madsnedergaard/)
-
-
-

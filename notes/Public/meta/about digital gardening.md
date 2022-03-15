@@ -12,6 +12,7 @@ Guiding principles (by Maggie Appleton):
 
 ## Inspiration
 - https://chasem.co
+- https://maggieappleton.com/garden
 
  
 

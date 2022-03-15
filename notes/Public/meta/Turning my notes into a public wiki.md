@@ -15,6 +15,5 @@ Previous attempts:
 	- https://dev.to/joeholmes/comment/1chl4
 	- https://forum.obsidian.md/t/my-obsidian-mkdocs-workflow/24424
 	- https://github.com/jobindj/obsidian-publish-mkdocs
-	- 
-	- 
+	- https://www.taniarascia.com/redesign-version-5/
 	- https://mara-li.github.io/mkdocs_obsidian_template/
