@@ -13,20 +13,19 @@ I want to find the best high quality, value for the money, coffee beans for espr
 - Can be bought online
 
 
-## Options I have tried
+## Options
 
-| Brand              | Name            | Price 250g | price kg | Rating |                  Notes |     |
-| ------------------ | --------------- | ----------:| --------:| ------ | ----------------------:| --- |
-| Ønsk               | Café de Alturas |         75 |      300 | ?      |                        |     |
-| Ønsk               | Corcasan        |         75 |      300 | ?      |                        |     |
-| Copenhagen Roaster | Chiapas         |         68 |      275 | 4/5    | Rarely available fresh |     |
-| Øristeriet         | Heavy pig       |            |          | 4/5    |                        |     |
-| Øristeriet         | Puro            |            |          |        |                  3.8/5 |     |
-| Øristeriet         | ?               |            |          |        |                      X |     |
-| Ubuntu             | Mexican         |            |          |        |                      X |     |
-| Ubuntu             | Columbian       |            |          |        |                      X |     |
-| Ubuntu             | ?               |            |          |        |                      X |     |
-|                    |                 |            |          |        |                        |     |
+| Brand      | Beans           | Price/250g | price/kg | Rating |
+| ---------- | --------------- | ----------:| --------:| ------ |
+| Ønsk       | Café de Alturas |         75 |      300 | ?      |
+| Ønsk       | Corcasan        |         75 |      300 | ?      |
+| Øristeriet | Heavy pig       |            |          | 4/5    |
+| Øristeriet | Puro            |            |          |        |
+| Øristeriet | ?               |            |          |        |
+| Ubuntu     | Mexican         |            |          | 4.5/5  |
+| Ubuntu     | Columbian       |            |          |        |
+| Ubuntu     | Peru            |            |          |        |
+|            |                 |            |          |        |
 
 
 
